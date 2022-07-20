@@ -8,4 +8,4 @@ This is a subheader
 
 ## Local development
 
-1. open index.html in your browser
+1. This is to learn GIT
